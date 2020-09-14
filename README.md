@@ -1,4 +1,11 @@
 # wizardzines
+
+
+
+https://jvns.ca/blog/2018/10/28/when-does-teaching-with-comics-work-well/
+
+
+---
 sorted zines that collected from Julia Evans @b0rk twitter
 
 You can find all zines at [wizardzines](https://wizardzines.com) and download most of them for free
